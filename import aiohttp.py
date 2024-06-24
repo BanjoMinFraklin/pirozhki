@@ -19,3 +19,4 @@ async def send_welcome(message):
 async def echo_message(message):
     await bot.reply_to(message, message.text)
 
+print ("Гооооооооооол")
